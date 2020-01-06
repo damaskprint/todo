@@ -109,7 +109,11 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.7)
       mini_portile2 (~> 2.4.0)
+<<<<<<< HEAD
     pg (1.2.1)
+=======
+    pg (1.2.0)
+>>>>>>> 264b88df30eb4bfbc64058316d3eefbea2e9a529
     public_suffix (4.0.2)
     puma (3.12.2)
     rack (2.0.8)
@@ -149,7 +153,11 @@ GEM
     rspec-expectations (3.9.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
+<<<<<<< HEAD
     rspec-mocks (3.9.1)
+=======
+    rspec-mocks (3.9.0)
+>>>>>>> 264b88df30eb4bfbc64058316d3eefbea2e9a529
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-rails (3.9.0)
@@ -160,7 +168,11 @@ GEM
       rspec-expectations (~> 3.9.0)
       rspec-mocks (~> 3.9.0)
       rspec-support (~> 3.9.0)
+<<<<<<< HEAD
     rspec-support (3.9.2)
+=======
+    rspec-support (3.9.1)
+>>>>>>> 264b88df30eb4bfbc64058316d3eefbea2e9a529
     ruby_dep (1.5.0)
     rubyzip (2.0.0)
     sass (3.7.4)
@@ -220,7 +232,11 @@ DEPENDENCIES
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
   puma (~> 3.11)
+<<<<<<< HEAD
   rails (~> 5.2.4, >= 5.2.4.1)
+=======
+  rails (~> 5.2.4)
+>>>>>>> 264b88df30eb4bfbc64058316d3eefbea2e9a529
   rspec-rails (~> 3.5)
   sass-rails (~> 5.0)
   selenium-webdriver
