@@ -1,24 +1,7 @@
-# README
+# TODOS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app creates a lists of tasks that need to be done. When an Item is added, they can be checked when they are done. Tasks that are checked have the text crossed out. Javascript enables to the webpage to update dynamicly. The app was tested as it was developed with the gem rspec.
 
-Things you may want to cover:
+Visit the site: [TODOS](https://todoster-philip-cox.herokuapp.com/)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![TODOS pic](https://philipcox.netlify.app/todoster.png)
